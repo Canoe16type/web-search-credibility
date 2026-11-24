@@ -1,4 +1,4 @@
-# Web Search Credibility
+# Web Search Credibility · Agent Skill
 
 A platform-agnostic skill for high-credibility web research.
 
