@@ -1,4 +1,4 @@
-# Web Search Credibility
+# Web Search Credibility · Agent Skill
 
 面向任意 Agent 的高可信度联网检索 Skill。
 
