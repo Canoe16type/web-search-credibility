@@ -41,7 +41,12 @@ LICENSE                                  MIT
 
 ## Install
 
-Copy `SKILL.en.md` and `references/authoritative-sources.en.md` into your agent's skill directory, or point the agent at this repository.
+Download one of the release packages; each contains a standard `SKILL.md` at its root:
+
+- `web-search-credibility-zh-v1.0.0.zip`: Chinese
+- `web-search-credibility-en-v1.0.0.zip`: English
+
+Or copy `SKILL.en.md` and `references/authoritative-sources.en.md` into your agent's skill directory.
 
 If your runtime uses different tool names, map the capability names in the skill to the available tools. No code changes are required.
 
