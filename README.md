@@ -38,7 +38,12 @@ LICENSE                              MIT
 
 ## 安装
 
-把 `SKILL.md` 和 `references/` 放进 Agent 的 Skill 目录，或让 Agent 直接读取本仓库。
+Release 提供两个语言包，解压后 `SKILL.md` 都在根目录：
+
+- `web-search-credibility-zh-v1.0.0.zip`：中文
+- `web-search-credibility-en-v1.0.0.zip`：English
+
+也可以直接把 `SKILL.md` 和 `references/` 放进 Agent 的 Skill 目录。
 
 工具名不同时，把 `SKILL.md` 里的能力名映射到实际工具即可，不需要改代码。
 
